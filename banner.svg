@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="220" viewBox="0 0 600 220">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="240" viewBox="0 0 600 240">
+  <rect width="600" height="240" fill="none"/>
 
   <!-- 🔌 Arduino -->
   <image x="240" y="50" width="120" height="120"
@@ -21,18 +22,25 @@
              values="0;0;0;0;1;0" keyTimes="0;0.28;0.33;0.61;0.66;1"/>
   </image>
 
-  <!-- Подписи -->
-  <text x="300" y="205" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" fill="#00979D">
+  <!-- 🔌 Подпись Arduino -->
+  <text x="300" y="215" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="22" font-weight="bold" fill="#00979D">
     🔌 Arduino
     <animate attributeName="opacity" dur="9s" repeatCount="indefinite"
              values="1;1;0;0;0;0" keyTimes="0;0.28;0.33;0.61;0.66;1"/>
   </text>
-  <text x="300" y="205" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" fill="#E7352C">
+
+  <!-- 📡 Подпись ESP32 -->
+  <text x="300" y="215" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="22" font-weight="bold" fill="#E7352C">
     📡 ESP32
     <animate attributeName="opacity" dur="9s" repeatCount="indefinite"
              values="0;0;1;1;0;0" keyTimes="0;0.28;0.33;0.61;0.66;1"/>
   </text>
-  <text x="300" y="205" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" fill="#3776AB">
+
+  <!-- 🐍 Подпись Python -->
+  <text x="300" y="215" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="22" font-weight="bold" fill="#3776AB">
     🐍 Python
     <animate attributeName="opacity" dur="9s" repeatCount="indefinite"
              values="0;0;0;0;1;0" keyTimes="0;0.28;0.33;0.61;0.66;1"/>
