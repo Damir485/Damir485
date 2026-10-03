@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00979D&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+%D0%A3%D1%87%D1%83+Python+%7C+Learning+Python;%F0%9F%94%8C+%D0%9F%D0%B8%D1%88%D1%83+%D0%BD%D0%B0+Arduino+%7C+Arduino+Developer;%F0%9F%93%A1+%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E+%D1%81+ESP32+%7C+ESP32+Projects;%E2%9A%A1+%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE+%2B+%D0%BA%D0%BE%D0%B4+%7C+Hardware+%2B+Code" alt="Typing SVG" />
 </p>
 
-<!-- 👁️ Счётчик посещений / Profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Damir485&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
 
 ---
 
@@ -41,8 +37,8 @@
 
 ## 🔥 Мои проекты | My Projects
 
-- 🤖 [Arduino / ESP проекты | Arduino / ESP projects](https://github.com/Damir485?tab=repositories) — устройства и эксперименты / devices & experiments
-- 🐍 [Python](https://github.com/Damir485?tab=repositories) — учебные программы / learning programs
+- 🤖 https://github.com/Damir485/A_SIMPLE_MACHINE_ON_ESP8266
+- 🐍 https://github.com/Damir485/Draft-your-name-and-age.
 
 ---
 
